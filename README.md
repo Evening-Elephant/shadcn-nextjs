@@ -9,7 +9,7 @@ This extension enables you to easily install and import Shadcn UI components dir
 - **Supported Components**: A variety of Shadcn UI components are supported, including `Button`, `Input`, `Card`, `Dialog`, `Popover`, `Tooltip`, and more.
 - **Hover Info**: Get instant hover info and installation options for Shadcn components directly in your code.
 
-[Screenshot]([(https://github.com/Evening-Elephant/shadcn-nextjs/blob/main/images/shadcn-nextjs.gif)])
+![Screenshot]([(https://github.com/Evening-Elephant/shadcn-nextjs/blob/main/images/shadcn-nextjs.gif)])
 
 ## Supported Components
 
