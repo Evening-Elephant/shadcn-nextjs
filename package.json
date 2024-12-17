@@ -2,6 +2,8 @@
   "name": "shadcn-nextjs",
   "displayName": "shadcn/nextjs",
   "description": "Install shadcn components directly from editor",
+  "main": "./out/extension.js",
+  "publisher": "evening-elephant",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
